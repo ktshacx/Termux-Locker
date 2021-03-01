@@ -17,3 +17,4 @@ This is a tool to protect termux.
 7) `./install.sh`
 
 # Result
+![Result](https://github.com/krishtechstudio/Termux-Locker/blob/main/Screenshot_20210301-233049.png)
